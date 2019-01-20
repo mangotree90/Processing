@@ -1,7 +1,7 @@
 # Processing
 
-##Homework01Drawing
-#####I created some ellipse and fill the ellipse with a fillcolor, the value of the fillcolor is from a Pimage object which is a picture.
+##Homework01Drawing##
+#####I created some ellipse and fill the ellipse with a fillcolor, the value of the fillcolor is from a Pimage object which is a picture.##
 ![Alt text](https://github.com/mangotree90/Processing/blob/master/screenshot/drawing.jpg?raw=true "Bild")
 ##Homework02Geometricform
 I created some ellipses and set the x cordinate of the ellipses as a varieble which varries from 1-10, y cordinate also varries at the same range(with the help of sin and cos) 
