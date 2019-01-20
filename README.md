@@ -1,2 +1,2 @@
 # Processing
-![Alt text](https://github.com/mangotree90/Processing/tree/master/screenshot?raw=true "Bild")
+![Alt text](https://github.com/mangotree90/Processing/blob/master/screenshot/drawing.jpg?raw=true "Bild")
