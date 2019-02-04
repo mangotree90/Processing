@@ -1,5 +1,5 @@
 # Processing
-### Homework01Drawing.
+### Homework01Drawing with processing
  I created some ellipse and fill the ellipse with a fillcolor, the value of the fillcolor is from a Pimage object which is a picture.
  
 ![Alt text](https://github.com/mangotree90/Processing/blob/master/screenshot/drawing.jpg?raw=true "Bild")
